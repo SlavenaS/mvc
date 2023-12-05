@@ -1,0 +1,8 @@
+C:\slavena-11a\MVC\MVCtip\bin\Debug\MVCtip.exe.config
+C:\slavena-11a\MVC\MVCtip\bin\Debug\MVCtip.exe
+C:\slavena-11a\MVC\MVCtip\bin\Debug\MVCtip.pdb
+C:\slavena-11a\MVC\MVCtip\obj\Debug\MVCtip.csproj.AssemblyReference.cache
+C:\slavena-11a\MVC\MVCtip\obj\Debug\MVCtip.csproj.SuggestedBindingRedirects.cache
+C:\slavena-11a\MVC\MVCtip\obj\Debug\MVCtip.csproj.CoreCompileInputs.cache
+C:\slavena-11a\MVC\MVCtip\obj\Debug\MVCtip.exe
+C:\slavena-11a\MVC\MVCtip\obj\Debug\MVCtip.pdb
